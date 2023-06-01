@@ -1,3 +1,4 @@
+/*
 package Chapter6;
 
 public class Car4 {
@@ -28,3 +29,4 @@ public class Car4 {
         this.maxspeed = maxspeed;
     }
 }
+*/
