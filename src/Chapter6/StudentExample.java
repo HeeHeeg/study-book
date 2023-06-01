@@ -1,2 +1,4 @@
-package Chapter6;public class StudentExample {
+package Chapter6;
+
+public class StudentExample {
 }
