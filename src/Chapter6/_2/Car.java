@@ -1,4 +1,4 @@
-package Chapter6;
+package Chapter6._2;
 
 public class Car {
     //필드

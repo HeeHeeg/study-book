@@ -1,4 +1,4 @@
-package Chapter6;
+package Chapter6._3;
 
 public class Car4_1 {
     // 다른 생성자 호출 : this()를 사용하여 중복 제거.
